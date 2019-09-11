@@ -1,0 +1,2 @@
+include ':app', ':moduleparty1', ':moduleparty2', ':moduleparty3', ':moduleparty4'
+rootProject.name='ModuleParty'
